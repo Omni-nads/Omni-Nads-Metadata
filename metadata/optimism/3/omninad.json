@@ -1,0 +1,12 @@
+{
+    "name": "Omni Nad #1",
+    "description": "The first-ever evolving, dynamic Omnichain NFT movement!",
+    "image": "https://arweave.net/lz0hOXUBtwH9_2NTIEgDPY7_5VeQrlyNiYtnG2MtnBU/optimism/3/omni-nad.png",
+    "attributes": [
+      { "trait_type": "State", "value": "ULIMATE" },
+      { "trait_type": "Royal Frame", "value": "Rare" },
+      { "trait_type": "Sparkling Aura", "value": "Rare" },
+      { "trait_type": "Gemstone Emblem", "value": "Rare" }
+    ]
+  }
+  
